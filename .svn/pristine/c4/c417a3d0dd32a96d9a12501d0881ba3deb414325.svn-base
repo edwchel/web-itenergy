@@ -1,0 +1,134 @@
+<!-- Page Title -->
+<div class="page-title text-center">
+  <h2 class="title"> Assistant Marketing Manager </h2>
+  <p class="description light"> Holisticly brand sustainable solutions rather than clicks-and-mortar applications.
+      <br> Phosfluorescently whiteboard fully tested initiatives. </p>
+</div>
+<!-- Page Title -->
+
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+  <div class="container">
+      <span class="parent"> <i class="fa fa-home"></i> <a href="index.html"> Home </a> </span>
+      <i class="fa fa-chevron-right"></i>
+      <span class="child"> Careers </span>
+  </div>
+</div>
+<!-- Breadcrumbs -->
+
+<div class="container">
+
+  <section class="career-single">
+      <div class="row career-info">
+
+          <div class="col-md-3 col-sm-6">
+              <div class="career-box">
+                  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                  <h4>DEPARTMENT</h4>
+                  <p>Marketing</p>
+              </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+              <div class="career-box">
+                  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                  <h4>LOCATION</h4>
+                  <p>Melbourne, Australia</p>
+              </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+              <div class="career-box">
+                  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                  <h4>EDUCATION</h4>
+                  <p>MBA or Master’s Degree</p>
+              </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+              <div class="career-box">
+                  <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                  <h4>EXPERIENCE</h4>
+                  <p>0 - 4 years</p>
+              </div>
+          </div>
+      </div>
+  </section>
+
+  <div class="row single-job">
+      <div class="col-md-9 job-info">
+
+          <section class="career-single-job">
+
+              <h2 class="job-title title-2"> JOB DESCRIPTION</h2>
+
+              <p> Distinctively fashion standardized communities vis-a-vis seamless applications. Authoritatively recaptiualize efficient supply chains without vertical initiatives. Progressively visualize strategic relationships with error-free processes. Credibly strategize fully tested outsourcing with functional e-markets. Dynamically evisculate user friendly architectures before cross-media experiences. Interactively disintermediate empowered data whereas distinctive human capital. Compellingly utilize. </p>
+              <p> Dynamically utilize intermandated materials through customized process improvements. Conveniently recaptiualize adaptive leadership before long-term high-impact functionalities. Completely incubate customer directed meta-services after economically sound imperatives. Distinctively evolve diverse applications for enterprise processes. Monotonectally disintermediate functionalized solutions rather than progressive leadership.</p>
+
+          </section>
+
+          <section class="career-response">
+              <div class="response">
+                  <h2 class="title-2"> RESPONSIBILITIES</h2>
+                  <ul>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit.</li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit.</li>
+                  </ul>
+              </div>
+              <div class="text-center response-btn">
+                  <a href="#" class="btn btn-primary" role="button">APPLY TO THIS JOB</a>
+              </div>
+
+          </section>
+      </div>
+
+      <div class="col-md-3 sidebar">
+
+          <div class="sidebar-fact">
+
+              <h3 class="about-quick-fact">Quick Fact</h3>
+              <p>Distinctively fashion in the effect of standard products communities via seamless applications. Authoritatively recaptiualize.</p>
+              <a href="#" class="btn btn-primary about-quick-fact-button" role="button">CALL TO ACTION</a>
+
+          </div>
+
+          <div class="sidebar-download">
+              <div class="download-file color-bg">
+                  <a href="#"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Download PDF <span>1.5 MB</span>
+                  </a>
+              </div>
+
+          </div>
+
+          <div class="sidebar-single-links">
+
+              <ul>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Associate Admin </a> </h4>
+                      <p class="location-2"> Melbourne, <span> Australia </span> </p>
+                  </li>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Credit Assessment Manager </a> </h4>
+                      <p class="location-2"> Hamburg, <span> Germany </span> </p>
+                  </li>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Legal Counsel - Patent </a> </h4>
+                      <p class="location-2"> Martinez, <span> United Sates </span> </p>
+                  </li>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Process Engineer </a> </h4>
+                      <p class="location-2"> Melbourne, <span> Australia </span> </p>
+                  </li>
+              </ul>
+
+          </div>
+
+      </div>
+  </div>
+
+</div>

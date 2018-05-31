@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+     <!-- Basic Page Needs -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Offshore - Responsive HTML Template">
+  <meta name="author" content="IT Energy Telemetrias de Control">
+  <title>IT Energy</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+
+   <!-- Bootstrap core CSS -->
+   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+   <!-- Font Awesome CSS -->
+   <link rel="stylesheet" href="assets/fonts/font-awesome/css/font-awesome.min.css">
+
+   <!-- Flex Slider -->
+   <link rel="stylesheet" href="assets/css/flexslider.css">
+
+   <!-- Owl Carousel -->
+   <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+   <link rel="stylesheet" href="assets/css/owl.theme.min.css">
+
+   <!-- Custom styles for this template -->
+   <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body class="homepage"> 
+  <app-root></app-root>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-92079040-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-92079040-2');
+</script>
+
+   <!-- Javascripts
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+    <!-- Jquery Library -->
+    <script src="assets/js/jquery.min.js"></script>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- jQuery Flex Slider -->
+    <script src="assets/js/jquery.flexslider-min.js"></script>
+
+    <!-- Owl Carousel -->
+    <script src="assets/js/owl.carousel.min.js"></script>
+
+    <!-- Counter JS -->
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+
+    <!-- Back to top -->
+    <script src="assets/js/back-to-top.js"></script>
+
+    <!-- Form Validation -->
+    <script src="assets/js/validate.js"></script>
+
+    <!-- Subscribe Form JS -->
+    <script src="assets/js/subscribe.js"></script>
+
+    <!-- Main JS -->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>

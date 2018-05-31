@@ -1,0 +1,81 @@
+// Components
+import { AppComponent } from './app.component';
+import { NavbarComponent } from './components/shared/navbar/navbar.component';
+import { InfocontactComponent } from './components/shared/infocontact/infocontact.component';
+import { FooterComponent } from "./components/shared/footer/footer.component";
+
+import { AccessComponent } from './components/access/access.component';
+import { ProjectComponent } from './components/project/project.component';
+import { PagesComponent } from './components/pages/pages.component';
+import { NewsBlogComponent } from './components/news-blog/news-blog.component';
+import { ContactComponent } from './components/contact/contact.component';
+
+// Modules
+import { BrowserModule } from '@angular/platform-browser';
+import { StartModule } from './components/start/start.module';
+import { NgModule } from '@angular/core';
+import { CompanyModule } from './components/company/company.module';
+import { ServicesModule } from './components/services/services.module';
+import { AgmCoreModule } from '@agm/core';
+
+// Rutes
+import { APP_ROUTING } from './app.routes';
+
+// start
+/*import { StartComponent } from "./components/start/start.component";
+import { SliderComponent } from "./components/start//slider/slider.component";
+import { HomecompanyComponent } from "./components/start//homecompany/homecompany.component";
+import { HomeceoComponent } from './components/start//homeceo/homeceo.component';
+import { HomeservicesComponent } from "./components/start//homeservices/homeservices.component";
+import { LinksComponent } from "./components/start//links/links.component";
+import { ProcessComponent } from "./components/start//process/process.component";
+import { StatsComponent } from "./components/start//stats/stats.component";
+import { ServicesotherComponent } from "./components/start//servicesother/servicesother.component";
+import { TestimonialsComponent } from "./components/start//testimonials/testimonials.component";
+import { PublicationsComponent } from "./components/start//publications/publications.component";
+import { NewsComponent } from "./components/start//news/news.component";
+import { PartnersComponent } from "./components/start//partners/partners.component";
+*/
+import { IntegrationOtherComponent } from './components/shared/other/integration-other/integration-other.component';
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    NavbarComponent,
+    InfocontactComponent,
+    FooterComponent,
+    AccessComponent,
+    ProjectComponent,
+    PagesComponent,
+    NewsBlogComponent,
+    ContactComponent,
+
+    IntegrationOtherComponent, // Ejemplo
+        /*StartComponent,
+        SliderComponent,
+        HomecompanyComponent,
+        HomeceoComponent,
+        HomeservicesComponent,
+        LinksComponent,
+        ProcessComponent,
+        StatsComponent,
+        ServicesotherComponent,
+        TestimonialsComponent,
+        PublicationsComponent,
+        NewsComponent,
+        PartnersComponent*/
+  ],
+  imports: [
+    BrowserModule,
+    APP_ROUTING,
+    StartModule,
+    CompanyModule,
+    ServicesModule,
+    AgmCoreModule.forRoot({
+      apiKey: 'AIzaSyBkiR4UnVJBguA1Qmpq95fnx7XWvRw6J4U'
+    })
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }

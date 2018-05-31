@@ -1,0 +1,58 @@
+<section class="home-process" style="text-align: justify">
+    <div class="container">
+        <div class="row process">
+            <div class="col-sm-6">
+                <h2 class="process-title title-2"> Nuestros Procesos</h2>
+                <h4 class="process-subtitle subtitle-2">
+                  Fortalecimiento interactivo de diversos imperativos después de la convergencia prospectiva.
+                </h4>
+                <p>
+                  Redefinir dinámicamente las métricas de clase mundial sin mercados de vanguardia. Progresivamente
+                  orquestar el pensamiento "fuera de la caja" habilitado a través de vectores de calidad escalables.
+                  Liberar objetivamente las competencias centrales óptimas.
+                </p>
+                <a href="/producto" class="btn btn-primary" role="button">LEER LA HISTORIA</a>
+            </div>
+
+            <div class="col-sm-6">
+                <div id="skills" class="process-bar">
+                    <div class="skillbar-title"> AUTOMATIZACIÓN </div>
+                    <div class="skillbar" data-percent="100%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">100%</div>
+                    </div>
+
+                      <div class="skillbar-title"> CONTROL </div>
+                    <div class="skillbar" data-percent="98%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">98%</div>
+                    </div>
+
+                    <div class="skillbar-title"> INSTRUMENTACIÓN </div>
+                    <div class="skillbar" data-percent="100%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">100%</div>
+                    </div>
+
+                    <div class="skillbar-title">TELEMETRÍA </div>
+                    <div class="skillbar" data-percent="97%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">97%</div>
+                    </div>
+
+                  <div class="skillbar-title">ANÁLISIS DE PROCESO </div>
+                  <div class="skillbar" data-percent="95%">
+                    <div class="skillbar-bar"> </div>
+                    <div class="skill-bar-percent">95%</div>
+                  </div>
+
+                  <div class="skillbar-title"> MONITOREO </div>
+                  <div class="skillbar" data-percent="100%">
+                    <div class="skillbar-bar"> </div>
+                    <div class="skill-bar-percent">100%</div>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

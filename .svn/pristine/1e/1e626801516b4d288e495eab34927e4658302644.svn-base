@@ -1,0 +1,15 @@
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'app-integration-other',
+  templateUrl: './integration-other.component.html',
+  styles: []
+})
+export class IntegrationOtherComponent implements OnInit {
+
+  constructor() { }
+
+  ngOnInit() {
+  }
+
+}

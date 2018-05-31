@@ -1,0 +1,102 @@
+<section class="home-publications" style="text-align: justify;">
+  <div class="container">
+    <div class="row publications">
+      <div class="col-md-7 col-sm-6">
+        <div class="panel-group" id="accordion">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                  Adquisición de data de campo y envió de informació
+                </a>
+              </h4>
+            </div>
+            <div id="collapseOne" class="panel-collapse collapse in">
+              <div class="panel-body">
+                <ul>
+                  <li type="disc">
+                    Instrumentación inalámbrica, precisa y confiable.
+                  </li>
+                  <li type="disc">
+                    Cumplimiento de normatividad aplicable.
+                  </li>
+                  <li type="disc">
+                    Tecnología sustentable, solar y autoalimentada.
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                Monitorear variables y condiciones operativas de campo.
+                </a></h4>
+            </div>
+            <div id="collapseTwo" class="panel-collapse collapse">
+              <div class="panel-body">
+            <ul type="disc">
+              <li type="disc">
+                Monitoreo basado en tiempo, demanda y por excepción.
+              </li>
+              <li type="disc">
+                Control remoto, manual o autmático desde la plataforma F2cloud.
+              </li>
+              <li type="disc">
+                Alarmas vía mail, sms, whatsapp, visible y sonoras.
+              </li>
+            </ul>
+
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4 class="panel-title">
+                <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                Análisis y explotación automático d la información.
+                </a></h4>
+            </div>
+            <div id="collapseThree" class="panel-collapse collapse">
+              <div class="panel-body">
+                <ul>
+                  <li type="disc">
+                    Generación automática de reportes, informes y documentos personlizados.
+                  </li>
+                  <li type="disc">
+                    Automatización de balances, cálculos, diagnósticos, etc.
+                  </li>
+                  <li type="disc">
+                    Generación automática de indicadores personalizados.
+                  </li>
+                  <li type="disc">
+                    Flujos de infomación.
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-5 col-sm-6">
+        <div class="plubication-downloads">
+          <h2 class="publish">Publications</h2>
+          <div class="download-file">
+            <a href="#"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> Descarga de Brochure <span>1.5 MB</span>
+            </a>
+          </div>
+          <p class="download-title">Other Downloads</p>
+          <ul class="download-list">
+            <li><a href="#"> Annual Report </a> <span>2.4 MB</span></li>
+            <li><a href="#"> Sustainability Report </a> <span>150 KB</span></li>
+            <li><a href="#"> Statistical Report </a> <span>250 KB</span></li>
+            <li><a href="#"> Energy Outlook </a> <span>1.8 MB</span></li>
+            <li><a href="#"> Chairman’s Message </a> <span>550 KB</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

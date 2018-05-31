@@ -1,0 +1,58 @@
+<section class="home-company" style="text-align: justify">
+    <div class="container">
+        <div class="row company">
+            <div class="col-md-5 col-sm-8">
+                <div class="company-details">
+                    <h2 class="company-title color-title"> IT Energy </h2>
+                    <h4 class="company-subtitle subtitle"> Innovación y Experiencia</h4>
+                    <p>
+                        Estamos conformados por un grupo Profesionales con mas de 10 años de experiencia en
+                        la consultoria, desarrollo, ingenieria e integracion de proyectos de tecnologia en Oil & Gas.
+                    </p>
+                    <button class="btn btn-primary " data-toggle="modal" data-target="#leeMision">LEER NUESTRA MISIÓN
+                    </button>
+                </div>
+            </div>
+
+            <div class="col-md-7 col-sm-12">
+                <div class="company-image">
+                    <div class="img-left hover-effect">
+                        <img src="assets/images/imagenRTU.jpg" alt="Company Image"/>
+                    </div>
+                    <div class="img-right hover-effect">
+                        <img src="assets/images/imgETI.jpg" alt="Company Image"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="leeMision" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header"  style="background: #002D92">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h3 class="modal-title" id="myModalLabel" style="color: snow; font-weight: bold;">Misión</h3>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        "Información confiable, generar grandes resultados."
+                    </p>
+                    <p>
+                        Nuestra misión es proveer soluciones prácticas para nuestros clientes haciendo uso de tecnológia de
+                        vanguardia, usando lo mejor de nuestros conocimientos y agrandando valor al sector Oil&Gas con la
+                        finalidad de maximizar el valor de los activos de manera segura, confiable, rentable y sustentable.
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <span>
+                        <img width="15%" src="assets/images/logo.png">
+                    </span>
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Ok</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

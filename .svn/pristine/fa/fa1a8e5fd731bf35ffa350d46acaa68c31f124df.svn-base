@@ -1,0 +1,135 @@
+<!-- Page Title -->
+<div class="page-title text-center">
+  <h2 class="title"> Proyectos </h2>
+  <p class="description light"> Holisticly brand sustainable solutions rather than clicks-and-mortar applications.
+    <br> Phosfluorescently whiteboard fully tested initiatives. </p>
+</div>
+<!-- Page Title -->
+
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+  <div class="container">
+    <span class="parent"> <i class="fa fa-home"></i> <a href="index.html"> Home </a> </span>
+    <i class="fa fa-chevron-right"></i>
+    <span class="child"> <a href="services.html"> Services </a> </span>
+    <i class="fa fa-chevron-right"></i>
+    <span class="child"> Services List </span>
+  </div>
+</div>
+
+<div class="container">
+  <div class="services-content">
+    <section class="services-company">
+      <div class="row service-list">
+
+        <div class="col-md-4 col-sm-4">
+          <a href="#" class="hover-effect" data-toggle="modal" data-target="#tl_movil">
+            <img src="assets/images/proyectos/chincometro_01.jpg"/>
+          </a>
+          <h4 class="subtitle services-title-one">Telemetría móvil en separadores de Well Testing</h4>
+        </div>
+
+        <div class="col-md-4 col-sm-4">
+          <a href="#" class="hover-effect">
+            <img src="assets/images/proyectos/medicion-de-ductos-ABB.jpg"/>
+          </a>
+          <h4 class="subtitle services-title-one">Telesupervisión de Oleoductos en el valle Texas</h4>
+        </div>
+
+        <div class="col-md-4 col-sm-4">
+          <a href="#" class="hover-effect">
+            <img src="assets/images/proyectos/tc_pp.jpg"/>
+          </a>
+          <h4 class="subtitle services-title-one">Telesupervisión y control de pozos petróleros</h4>
+        </div>
+
+        <div class="clearfix spacer-50"></div>
+
+        <div class="col-md-4 col-sm-4">
+          <a href="#" class="hover-effect">
+            <img src="assets/images/proyectos/Mc_bp.jpg"/>
+          </a>
+          <h4 class="subtitle services-title-one">Monitoreo de compresores en boca de pozo</h4>
+        </div>
+
+        <div class="col-md-4 col-sm-4">
+          <a href="#" class="hover-effect">
+            <img src="assets/images/proyectos/Mv_pf.JPG"/>
+          </a>
+          <h4 class="subtitle services-title-one">Monitoreo de variables en Puntos Fiscales de medición y
+            transferencia de custodia</h4>
+        </div>
+      </div>
+    </section>
+  </div>
+  <!-- ventanas modales-->
+  <!--Ventana modal de Telemetría movil en separadores de well testing -->
+  <div class="modal fade" id="tl_movil" tabindex="-1" role="dialog" aria-labelledby="CEO" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header" style="background: #002D92">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+          <h3 class="modal-title" id="myModalLabel" style="color: snow; font-weight: bold;">Telemetría móvil en
+            separadores de Well Testing</h3>
+        </div>
+        <div class="modal-body">
+          <div class="container-fluid">
+            <div class="row text-justify">
+              <div class="col-md-offset-2 col-md-8">
+                <img class="img-responsive" src="assets/images/proyectos/chincometro_01.jpg"/>
+              </div>
+            </div>
+            <div class="row">
+              <div class="spacer-30"></div>
+              <div class="col-md text-justify">
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quam justo, pretium eu tempus ut,
+                  pretium fermentum nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+                  inceptos
+                  himenaeos. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis
+                  egestas.
+                </p>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-md-4 text-justify">
+              <h4 class="subtitle center">¿Qué necesitaban?</h4>
+                <div class="spacer-10"></div>
+                <p>
+                  Proin sed felis eu odio accumsan rutrum. Morbi a erat ipsum. Integer eu justo augue. Aliquam erat
+                  volutpat. Etiam tortor lorem, gravida eget vestibulum at, placerat at nunc.
+                </p>
+              </div>
+              <div class="col-md-4 text-justify">
+                <h4 class="subtitle center">¿Cómo ayudamos?</h4>
+                <div class="spacer-10"></div>
+                <p>
+                  Proin sed felis eu odio accumsan rutrum. Morbi a erat ipsum. Integer eu justo augue. Aliquam erat
+                  volutpat. Etiam tortor lorem, gravida eget vestibulum at, placerat at nunc.
+                </p>
+              </div>
+              <div class="col-md-4 text-justify">
+                <h4 class="subtitle center">Los resultados</h4>
+                <div class="spacer-10"></div>
+                <p>
+                  Proin sed felis eu odio accumsan rutrum. Morbi a erat ipsum. Integer eu justo augue. Aliquam erat
+                  volutpat. Etiam tortor lorem, gravida eget vestibulum at, placerat at nunc.
+                </p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="modal-footer">
+                    <span>
+                        <img width="15%" src="assets/images/logo.png">
+                    </span>
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Ok</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

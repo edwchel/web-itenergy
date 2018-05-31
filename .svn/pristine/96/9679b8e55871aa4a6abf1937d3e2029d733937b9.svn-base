@@ -1,0 +1,35 @@
+import { Http, HttpModule } from '@angular/http';
+import { Injectable } from '@angular/core';
+
+@Injectable()
+export class PageService {
+
+  list_proyecto: any []=[]
+  proyecto: any[] = []
+  // cargando: boolean = false
+  constructor(public http:Http) { 
+    this.cargar_proyecto_example();
+    this.cargar_proyecto();
+  }
+
+  public cargar_proyecto(){
+    this.http.get('assets/data/projectos_idx.json')
+      .subscribe(resp =>{
+        // this.cargando = true;
+        this.proyecto = resp.json();
+        console.log(this.proyecto)
+  })
+  } 
+
+  public cargar_proyecto_example(){
+  this.http.get('https://pageweb-angularhtml.firebaseio.com/equipo.json')
+    .subscribe(respuesta =>{
+      // this.cargando = true;
+      this.list_proyecto = respuesta.json();
+
+      console.log(this.list_proyecto)
+    })
+
+  }
+
+}

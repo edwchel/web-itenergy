@@ -1,0 +1,29 @@
+<section class="home-ceo" >
+    <div class="container">
+        <div class="row ceo">
+            <div class="col-md-6" style="text-align: center; position: center;">
+                <div class="ceo-photo">
+                    <img src="assets/images/5.jpg"  alt="CEO" />
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="ceo-details">
+                    <h2 class="ceo-title color-title"> IT ENERGY TECNOLOGIAS DE CONTROL</h2>
+                    <h4 class="ceo-subtitle subtitle"> READ THE MESSAGE FROM OUR CEO </h4>
+                    <p style="text-align: justify;">
+                        IT Energy, fue creada en 2013 con el único objetivo de crear soluciones tecnológicas de vanguardia para
+                        ayudar a nuestros clientes a afrontar estos desafíos de cambio, no solo para ayudar a mantenerse
+                        competitivas si no también para ayudarlas a crear una nueva filosofía de trabajo basada en los procesos,
+                        la tecnología, las personas y sus productos o servicios.
+                        Como CEO de IT Energy, acepto la gran responsabilidad que nuestro equipo me encomienda, es por ello en que
+                        en materia de seguridad, usamos tecnología probada y avalada por nosotros, intrínsecamente seguras, cumplimos
+                        con rigor las normas de Clasificación, Anti-explosión y respetamos nuestra política HSE.
+                    </p>
+                    <h4 class="ceo-sign"> <img src="assets/images/ceo-sign.png" alt="signature" /> </h4>
+                    <p class="ceo-name">Martin Sánchez G., CEO</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

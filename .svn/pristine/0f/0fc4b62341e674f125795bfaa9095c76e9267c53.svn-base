@@ -1,0 +1,30 @@
+<section class="home-services">
+    <div class="container">
+        <div class="row services">
+            <div class="col-md-4">
+                <div class="hover-effect">
+                    <img src="assets/images/services-one.jpg" alt="technology-innovation" />
+                </div>
+                <h4 class="services-title-one subtitle">TECHNOLOGY &amp; INNOVATION</h4>
+                <p>Professionally drive clicks-and-mortar web readiness after progressive e-commerce. Dramatically unleash cross functional.</p>
+                <a href="#" class="btn btn-default btn-normal">Read More</a>
+            </div>
+            <div class="col-md-4">
+                <div class="hover-effect">
+                    <img src="assets/images/services-two.jpg" alt="our-operations" />
+                </div>
+                <h4 class="services-title-one subtitle">OUR OPERATIONS</h4>
+                <p>Energistically productize wireless mindshare for emerging experiences. Myocardinate enabled alignments and magnetic scenarios. </p>
+                <a href="#" class="btn btn-default btn-normal">Read More</a>
+            </div>
+            <div class="col-md-4">
+                <div class="hover-effect">
+                    <img src="assets/images/services-three.jpg" alt="social-resposibility" />
+                </div>
+                <h4 class="services-title-one subtitle">SOCIAL RESPONIBILITY</h4>
+                <p>Globally incubate principle-centered e-markets with standards compliant catalysts for change. Efficiently extend highly efficient products.</p>
+                <a href="#" class="btn btn-default btn-normal">Read More</a>
+            </div>
+        </div>
+    </div>
+</section>

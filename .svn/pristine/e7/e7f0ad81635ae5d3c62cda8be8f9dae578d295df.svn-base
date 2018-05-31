@@ -1,0 +1,103 @@
+<section class="home-services-other">
+    <div class="container">
+        <div class="section-title text-center">
+            <h2 class="title-services-other title-2">SERVICIOS</h2>
+            <h4 class="subtitle-services-other subtitle-2">Nuestra fortaleza se fundamenta en el KnowHowy experiencia adquirida en la ejecución de proyectos Innovadores para empresas petroleras de referencia mundial</h4>
+            <div class="spacer-50"> </div>
+        </div>
+
+        <div class="row services-other">
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/iconTelemetria-rojo.png" alt="SHELL CHEMICALS" />
+                </div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">TELEMETRIA</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/iconInstrumentacion-rojo.png" alt="COMMERCIAL FUELS" />
+                </div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">INSTRUMENTACION</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/iconCapacitacion-rojo.png" alt="AVIATION FUELS" />
+                </div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">CAPACITACION</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="clearfix spacer-70"></div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/iconSoftware-rojo.png" alt="LUBRICANTS" />
+                </div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">DESARROLLO DE SOFTWARE</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/service-icon5.png" alt="MARINE FUELS" />
+                </div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">MARINE FUELS</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/service-icon6.png" alt="LIQUIFIED PETROLIUM GAS" />
+                </div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">LIQUIFIED PETROLIUM GAS</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="clearfix spacer-70"></div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/service-icon7.png" alt="SHELL SULPHUR" /></div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">SHELL SULPHUR</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/service-icon8.png" alt="SHELL TRADING" /></div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">SHELL TRADING</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="img-box">
+                    <img src="assets/images/service-icon9.png" alt="SHELL FOR SUPPLIERS" /></div>
+                <div class="services-info">
+                    <h4 class="services-title-one subtitle">SHELL FOR SUPPLIERS</h4>
+                    <p>Lorem ipsum dolor sit amet, con tetur adipiscing elit agenean.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>

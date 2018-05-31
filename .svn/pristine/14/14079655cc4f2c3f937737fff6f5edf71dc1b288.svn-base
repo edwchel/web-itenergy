@@ -1,0 +1,246 @@
+<!-- Page Title -->
+<div class="page-title text-center">
+  <h2 class="title"> Integración </h2>
+  <p class="description light"> Holisticly brand sustainable solutions rather than clicks-and-mortar applications.
+    <br> Phosfluorescently whiteboard fully tested initiatives. </p>
+</div>
+<!-- Page Title -->
+
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+  <div class="container">
+    <span class="parent"> <i class="fa fa-home"></i> <a href="index.html"> Home </a> </span>
+    <i class="fa fa-chevron-right"></i>
+    <span class="child"> <a href="services.html"> Services </a> </span>
+    <i class="fa fa-chevron-right"></i>
+    <span class="child"> Services Single </span>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row services-sidebar">
+
+    <div class="col-md-9 services-content">
+      <div class="spacer-80"></div>
+      <section class="services-checmicals">
+        <div class="chemicals">
+          <a href="#" class="hover-effect">
+            <img src="images/services-large.jpg" alt=""/>
+          </a>
+          <h2 class="chemicals-title color-title"> Integración</h2>
+          <!--Primera fila -->
+          <div class="row">
+            <div class="spacer-30"></div>
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/telemetría.jpg"/>
+              </div>
+              <h4 class="subtitle center">Telemetría de Procesos Productivos</h4>
+              <p class="text-justify">
+                Contamos con una base de experiencia en la telemetría de procesos productivos tales como
+                Telesupervisión de pozos Satelital y 3G, Telemetría de compresoores, Tanques, Separadores y
+                Equipos de Medición.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/medicion.jpg"/>
+              </div>
+              <h4 class="subtitle center">Instrumentación de Equipo de Medición</h4>
+              <p class="text-justify">
+                Instrumentamos equipos de medición de acuerdo a las necesidades de nuestros clientes, entre las más
+                comunes son instrumentación de tanques, patines de medición, separadores y compresores.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/dyp_sistemas.JPG"/>
+              </div>
+              <h4 class="subtitle center">Diseño y programación de sistemas (PLC, RTU, HMI, etc)</h4>
+              <p class="text-justify">
+                Desarrollamos la lógica de control de los dispositivos inteligentes bajo estándares y metodología más
+                exigentes.
+              </p>
+            </div>
+          </div>
+
+          <!--Segunda  fila -->
+          <div class="row">
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/Inst_sistemas.jpg"/>
+              </div>
+              <h4 class="subtitle center">Instalación de Sistemas</h4>
+              <p class="text-justify">
+                Llevamos a cabo la instalación de sistemas de telemetría, instrumentación, automatización y control en
+                el ramo de petróleo y gas principalmente
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/Int_proyecto.jpg"/>
+              </div>
+              <h4 class="subtitle center">Integración de Proyectos de Automatización</h4>
+              <p class="text-justify">
+                Realizamos toda la ingeniería general y de detalle, proveemos el hardware y el software debidamente
+                integrado, las pruebas de fabrica y en sitio, la instalación, entrenamiento y capacitación de cada
+                proyecto hasta su finalización.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/D_software.png"/>
+              </div>
+              <h4 class="subtitle center">Desarrollo de Aplicaciones de Software.</h4>
+              <p class="text-justify">
+                Desarrollamos aplicaciones hechas a la medida de nuestros clientes. Utilizando la mejor tecnología.
+              </p>
+            </div>
+          </div>
+          <!--Tercera fila -->
+          <div class="row">
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/M_equipos.JPG"/>
+              </div>
+              <h4 class="subtitle center">Mantenimiento a Equipos de Medición.</h4>
+              <p class="text-justify">
+                Mantenimiento a Equipos de Medición.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/P_hadware.png"/>
+              </div>
+              <h4 class="subtitle center">Provisión de hardware y software debidamente integrado.</h4>
+              <p class="text-justify">
+                Proveemos a nuestros cientes el equipo y software necesario para el funcionamiento.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/S_informaticas.jpg"/>
+              </div>
+              <h4 class="subtitle center">Soluciones Informáticas.</h4>
+              <p class="text-justify">
+                En construcción. En construcción. En construcción. En construcción. En construcción.
+                En construcción. En construcción.
+              </p>
+            </div>
+          </div>
+          <!-- Cuarta fila-->
+          <div class="row">
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/telecomunicaciones.jpg"/>
+              </div>
+              <h4 class="subtitle center">Telecomunicaciones.</h4>
+              <p class="text-justify">
+                En construcción. En construcción. En construcción. En construcción. En construcción.
+                En construcción. En construcción.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/d_g_y_f.jpg"/>
+              </div>
+              <h4 class="subtitle center">Detección de Gas y fuego.</h4>
+              <p class="text-justify">
+                En construcción. En construcción. En construcción. En construcción. En construcción.
+                En construcción. En construcción.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/monitoreo.jpg"/>
+              </div>
+              <h4 class="subtitle center">Monitoréo con sistemas de Cámaras CCTV.</h4>
+              <p class="text-justify">
+                En construcción. En construcción. En construcción. En construcción. En construcción.
+                En construcción. En construcción.
+              </p>
+            </div>
+          </div>
+          <!-- quinta fila-->
+          <div class="row">
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/entrenamiento.png"/>
+              </div>
+              <h4 class="subtitle center">Entrenamiento de operadores y personal de mantenimiento.</h4>
+              <p class="text-justify">
+                En construcción. En construcción. En construcción. En construcción. En construcción.
+                En construcción. En construcción.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/pruebas.jpg"/>
+              </div>
+              <h4 class="subtitle center">Pruebas en Fábrica y en Sitio.</h4>
+              <p class="text-justify">
+                En construcción. En construcción. En construcción. En construcción. En construcción.
+                En construcción. En construcción.
+              </p>
+            </div>
+
+            <div class="col-md-4">
+              <div class="hover-effect">
+                <img class="img-responsive" src="assets/images/integracion/p_y_c_sistemas.jpg"/>
+              </div>
+              <h4 class="subtitle center">Precommissioning y commissioning de Sistemas.</h4>
+              <p class="text-justify">
+                En construcción. En construcción. En construcción. En construcción. En construcción.
+                En construcción. En construcción.
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </section>
+      <div class="spacer-80"></div>
+    </div>
+
+    <div class="col-md-3 sidebar left">
+      <div class="sidebar-blog-categories">
+        <ul>
+          <li><a href="#"> Shell Chemicals </a></li>
+          <li><a href="#"> Commercial Fuels </a></li>
+          <li><a href="#"> Aviation Fuels </a></li>
+          <li><a href="#"> Lubricants </a></li>
+          <li><a href="#"> Marine Fuels </a></li>
+          <li><a href="#"> Liquified Petrolium Gas </a></li>
+          <li><a href="#"> Shell Sulphur </a></li>
+          <li><a href="#"> Shell Trading </a></li>
+          <li><a href="#"> Shell for Suppliers </a></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-download">
+        <div class="download-file color-bg">
+          <a href="#"><i class="fa fa-file-pdf-o" aria-hidden="true"></i> Download PDF <span>1.5 MB</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="sidebar-fact">
+
+        <h3 class="about-quick-fact">Quick Fact</h3>
+        <p>Distinctively fashion in the effect of standard products communities via seamless applications.
+          Authoritatively recaptiualize.</p>
+        <a href="#" class="btn btn-primary about-quick-fact-button" role="button">CALL TO ACTION</a>
+
+      </div>
+
+    </div>
+  </div>
+</div>

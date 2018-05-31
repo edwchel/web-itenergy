@@ -1,0 +1,147 @@
+<!-- Page Title -->
+<div class="page-title text-center">
+  <h2 class="title"> Identidad </h2>
+  <p class="description light"> Holisticly brand sustainable solutions rather than clicks-and-mortar applications.
+      <br> Phosfluorescently whiteboard fully tested initiatives. </p>
+</div>
+<!-- Page Title -->
+
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+  <div class="container">
+      <span class="parent"> <i class="fa fa-home"></i> <a href="index.html"> Home </a> </span>
+      <i class="fa fa-chevron-right"></i>
+      <span class="child"> Careers </span>
+  </div>
+</div>
+<!-- Breadcrumbs -->
+
+<div class="container">
+  <div class="row  text-justify">
+      <div class="col-md-9">
+          <section >
+              <h2 class="text-subtitle" style=" font-weight: bold; color: #093EB6">Nuestra Identidad.</h2>
+              <p>
+                  "Monitorear cada activo, tanque, pozo, separador o facilites asociados con sector Oil&Gas."
+              </p>
+              <p>
+                  Nuestra visión es ser una empresa de referencia para la industria del petróleo y del gas. Que se
+                  reinventa constantemente a tráves de la aplicación de conceptos innovadores, que es ágil, transparente y
+                  con alto nivel de compromiso hacia la innovación tecnológica.
+              </p>
+              <p>
+                  <i>“Debemos internacionalizar cada pequeño éxito a fin de facilitar las oportunidades.”</i>
+              </p>
+              <p>
+                  <i>“Se un Líder, esto es una filosofía de trabajo que inspira por si misma.”</i>
+              </p>
+              <p>
+                  <i>“Respeta siempre el trabajo, el tiempo y la dedicación de los demás, haz honor a su esfuerzo
+                      utilizándolo en tu beneficio y de tus compañeros.”</i>
+              </p>
+              <p>
+                  <i>“Si quieres recoger miel, no des puntapiés a la colmenta” trata a los demás con respeto profesional.”
+                  </i>
+              </p>
+              <p>
+                  <i>“En las relaciones con los clientes, sé todo un profesional y exige lo mismo de tus socios.”</i>
+              </p>
+              <p>
+                  <i>“En tiempos de crisis, los buenos profesionales de destacan.”</i>
+              </p>
+              <p>
+                  <i>“Tenga en cuenta que ser dueño de tu propia empresa implica o es garantía de problemas, pero vale la
+                      pena enfrentarlos.”</i>
+              </p>
+              <p>
+                  <i>“No olviden que la adversidad es un excelente maestro.”</i>
+              </p>
+              <p>
+                  <i>“Traten siempre de llevar la honestidad a un grado más alto.”</i>
+              </p>
+              <p>
+                  <i>“La esencia de capacitar a los demás es en realidad agregar valor.”</i>
+              </p>
+              <p>
+                  <i>“En IT energy liderar, significa estar a la vanguardia, aventurarse en terreno virgen, conquistar
+                      nuevos mundos, alejarse del statu quo.”</i>
+              </p>
+              <p>
+                  <i>
+                      “Un nuevo modelo de negocio, es siempre una oportunidad para posicionarnos de un modo privilegiado
+                      en el sector energético.”
+                  </i>
+              </p>
+              <p>
+                  <i>
+                      “Sin un propósito definido no tienes fundamento alguno en qué basar tus decisiones, distribuir tu
+                      tiempo y usar tus recursos.”
+                  </i>
+              </p>
+          </section>
+
+          <section class="career-response">
+              <div class="response">
+                  <h2 class="title-2"> RESPONSIBILITIES</h2>
+                  <ul>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit.</li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit. </li>
+                      <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Lorem ipsum dolor sit amet, consectetur elit.</li>
+                  </ul>
+              </div>
+              <div class="text-center response-btn">
+                  <a href="#" class="btn btn-primary" role="button">APPLY TO THIS JOB</a>
+              </div>
+
+          </section>
+      </div>
+
+      <div class="col-md-3 sidebar">
+
+          <div class="sidebar-fact">
+
+              <h3 class="about-quick-fact">Quick Fact</h3>
+              <p>Distinctively fashion in the effect of standard products communities via seamless applications. Authoritatively recaptiualize.</p>
+              <a href="#" class="btn btn-primary about-quick-fact-button" role="button">CALL TO ACTION</a>
+
+          </div>
+
+          <div class="sidebar-download">
+              <div class="download-file color-bg">
+                  <a href="#"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>  Download PDF <span>1.5 MB</span>
+                  </a>
+              </div>
+
+          </div>
+
+          <div class="sidebar-single-links">
+
+              <ul>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Associate Admin </a> </h4>
+                      <p class="location-2"> Melbourne, <span> Australia </span> </p>
+                  </li>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Credit Assessment Manager </a> </h4>
+                      <p class="location-2"> Hamburg, <span> Germany </span> </p>
+                  </li>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Legal Counsel - Patent </a> </h4>
+                      <p class="location-2"> Martinez, <span> United Sates </span> </p>
+                  </li>
+                  <li>
+                      <h4 class="subtitle"> <a href="#"> Process Engineer </a> </h4>
+                      <p class="location-2"> Melbourne, <span> Australia </span> </p>
+                  </li>
+              </ul>
+
+          </div>
+
+      </div>
+  </div>
+
+</div>

@@ -1,0 +1,25 @@
+<section class="home-company">
+    <div class="container">
+        <div class="row company">
+            <div class="col-md-5 col-sm-8">
+                <div class="company-details">
+                    <h2 class="company-title color-title"> IT Energy </h2>
+                    <h4 class="company-subtitle subtitle"> Innovación y Experiencia</h4>
+                    <p> Estamos conformados por un grupo Profesionales con mas de 10 años de experiencia en la consultoria, desarrollo, ingenieria  e integracion de proyectos de tecnologia en Oil & Gas. </p>
+                    <a href="#" class="btn btn-primary" role="button"> LEER NUESTRA MISIÓN </a>
+                </div>
+            </div>
+
+            <div class="col-md-7 col-sm-12">
+                <div class="company-image">
+                    <div class="img-left hover-effect">
+                        <img src="assets/images/imagenRTU.jpg" alt="Company Image" />
+                    </div>
+                    <div class="img-right hover-effect">
+                        <img src="assets/images/imgETI.jpg" alt="Company Image" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

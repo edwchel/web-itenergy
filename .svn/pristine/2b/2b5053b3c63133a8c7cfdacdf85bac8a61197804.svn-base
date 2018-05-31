@@ -1,0 +1,24 @@
+import { NgModule } from "@angular/core";
+import { ConsultancyComponent } from "./consultancy/consultancy.component";
+import { ServicesComponent } from "./services.component";
+import { IntegrationComponent } from "./integration/integration.component";
+import { ListServicesComponent } from "./list-services/list-services.component";
+import { ProductsComponent } from "./products/products.component";
+import { SupportMttoComponent } from "./support-mtto/support-mtto.component";
+
+
+@NgModule({
+    declarations:  [
+        ServicesComponent,
+        ConsultancyComponent,
+        IntegrationComponent,
+        ListServicesComponent,
+        ProductsComponent,
+        SupportMttoComponent
+    ],
+    exports: [ServicesComponent],
+})
+
+export class ServicesModule {
+
+}

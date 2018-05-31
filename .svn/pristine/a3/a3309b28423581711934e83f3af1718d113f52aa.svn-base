@@ -1,0 +1,163 @@
+<section class="home-ceo">
+    <div class="container">
+        <div class="row ceo">
+            <div class="col-md-6" style="text-align: center; position: center;">
+                <div class="ceo-photo">
+                    <img src="assets/images/5.jpg" alt="CEO" />
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="ceo-details">
+                    <h2 class="ceo-title color-title"> IT ENERGY TECNOLOGIAS DE CONTROL</h2>
+                    <h4 class="ceo-subtitle subtitle"> LEA EL MENSAJE DE NUESTRO CEO </h4>
+                    <p style="text-align: justify;">
+                        El Mundo como lo conocíamos ya cambio. La tecnología esta transformando constantemente la manera
+                        en la que nos comunicamos, compramos, interactuamos, nos relacionamos, nos transportamos, pero
+                        sobre todo esta teniendo un impacto gigantesco en como trabajamos.
+                    </p>
+                    <h4 class="ceo-sign">
+                        <img src="assets/images/ceo-sign.png" alt="signature" /> </h4>
+                    <p class="ceo-name">Martin Sánchez G., CEO</p>
+                    <!-- Button trigger modal -->
+                    <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#CEO">
+                        Leer completo..
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Aqui vamos a  meter la estructura modal-->
+    <div class="modal fade" id="CEO" tabindex="-1" role="dialog" aria-labelledby="CEO" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header" style="background: #002D92">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h3 class="modal-title" id="myModalLabel" style="color: snow; font-weight: bold;">Mensaje de nuestro CEO</h3>
+                </div>
+                <div class="modal-body">
+                    <div class="container-fluid">
+                        <div class="row text-justify">
+                            <div class="col-md">
+                                <p>
+                                    El Mundo como lo conocíamos ya cambio. La tecnología esta transformando constantemente la manera en la que nos comunicamos,
+                                    compramos, interactuamos, nos relacionamos, nos transportamos, pero sobre todo esta teniendo
+                                    un impacto gigantesco en como trabajamos. Los últimos 4 Años aprendimos que no estábamos
+                                    preparados del todo para encarar los cambios que el mercado del Oil & Gas demanda, primero
+                                    por la súbita bajada en el precio de los hidrocarburos y segundo por la lenta adición
+                                    hasta entonces de la tecnología en la mayoría de los procesos del Midstream y Upstream.
+                                </p>
+                                <p>
+                                    IT Energy, fue creada en 2013 con el único objetivo de crear soluciones tecnológicas de vanguardia para ayudar a nuestros
+                                    clientes a afrontar estos desafíos de cambio, no solo para ayudar a mantenerse competitivas
+                                    si no también para ayudarlas a crear una nueva filosofía de trabajo basada en los procesos,
+                                    la tecnología, las personas y sus productos o servicios.
+                                </p>
+                                <p>
+                                    Nuestra gran Fortaleza radica en nuestro Know How, Nuestro cuadro de Socios Accionistas y Nuestro Equipo Profesional con
+                                    mas de 15 años de Experiencia desarrollando, gestionando e Implementando proyectos desafiantes
+                                    y disruptivos con Empresas de Referencia Global. Somos expertos en Soluciones tecnológicas
+                                    de Telesupervisión, SCADA, Automatización y Control entre otras y hemos desarrollado
+                                    un sin número de proyectos exitosos.
+                                </p>
+                                <p>
+                                    En este 2018, estamos abriendo una nueva oficina en la Ciudad de Reynosa Tamaulipas, Sabemos sin duda que una de nuestras
+                                    fortalezas esta en poder operar en lugares con condiciones tan adversas como esta ciudad,
+                                    tenemos expertos profesionales capaces de manejar riesgos importantes y manejar situaciones
+                                    de operación difícil. Esto lo hacemos además como una prueba de nuestra apuesta en esta
+                                    zona del país, la cual fue nuestra cuna y nos sentimos orgullosos de haber logrado crecer
+                                    y desarrollar nuestro negocio en estas condiciones.
+                                </p>
+                                <p>
+                                    Este año en Mexico tendrá lugar lo que desde mi punto de vista será la más histórica de las contiendas electorales, esto
+                                    tiene a muchos inversionistas con la mayor de las incertidumbres sobre el panorama del
+                                    Sector, Para nosotros es una oportunidad de crecimiento, y como muestra de nuestra confianza,
+                                    quiero mencionar algunos temas importantes en los que estaremos empujando fuertemente.
+                                </p>
+                                <p>1.- Estaremos Desarrollando un sistema de Gerenciamiento de Medición de Hidrocarburos. Esto
+                                    para cumplir con uno de los principales jugadores de la nueva Reforma Energética, La
+                                    CNH.Nuestra solución estará enfocada a ayudar a las operadoras a dar cumplimiento con
+                                    los 19 puntos del gerenciamiento de la medición requeridos por la Comisión Nacional de
+                                    Hidrocarburos. Esta herramienta será sin duda la mejor oferta en el mercado, como plataforma
+                                    de gestión y cumplimiento, además de ser realizada con la más estricta seguridad informática
+                                    y la mejor oferta tecnología disponible del mercado.
+                                </p>
+                                <p>2.- Estamos comenzando a desarrollar proyectos en un mercado diferente al Oil & Gas, hemos
+                                    comenzado proyectos enfocados a la industria maquiladora, donde pondremos nuestros conocimientos
+                                    en automatización a disposición de más de 600 fábricas, tan solo en el norte del país.
+                                    Nos sentimos muy entusiasmados de cumplir uno de nuestros objetivos directivos de este
+                                    año en los primeros 4 meses de gestión.
+                                </p>
+                                <p>
+                                    3.- Estamos en conversaciones con Importantes con MSI International, el objetivo es desarrollar nuevos modelos de negocio
+                                    en terrenos aun verdes en Mexico, pero que en otros países han venido creciendo de manera
+                                    importante. Estamos buscando caminos para agrandar nuestra oferta de servicios y estamos
+                                    seguros de que las alianzas estratégicas son sin duda un camino importante.
+                                </p>
+                                <p>
+                                    4.- Clios (Cloud Intelligent Oilfield Service). - Es uno de nuestros servicios mas exitosos, somos por mucho la compañía
+                                    mas confiable en este modelo de negocio, estamos muy contentos de los comentarios de
+                                    nuestros clientes, a mediano plazo hemos podido demostrar nuestros diferenciadores, no
+                                    solo tenemos la plataforma F2-Cloud, como la mas robusta de su tipo, si no también es
+                                    la mas segura del mercado.
+                                </p>
+                                <p>
+                                    Como CEO de IT Energy, acepto la gran responsabilidad que nuestro equipo me encomienda, es por ello en que en materia de
+                                    seguridad, usamos tecnología probada y avalada por nosotros, intrínsecamente seguras,
+                                    cumplimos con rigor las normas de Clasificación, Anti-explosión y respetamos nuestra
+                                    política HSE.
+                                </p>
+                                <p>
+                                    “Una solución segura es el principal elemento que nos diferencia de nuestra competencia ”: dijo: Sergio D. Lopez, Jefe de
+                                    Operaciones de IT Energy.
+                                </p>
+                                <p>
+                                    “El éxito de nuestra tecnología de campo radica en la confiabilidad del dato, nuestro foco esta puesto justo ahí”. Armando
+                                    Gil, Gte de Ingenieria de IT Energy
+                                </p>
+                                <p>
+                                    5.- Durante el ultimo tercio de este año, estaremos poniendo en servicio la Versión 2019 de nuestra plataforma F2Cloud (Field
+                                    to Cloud), Nuestra Área de Desarrollo esta muy motivada con este proyecto ya que estará
+                                    completamente orientado a la Nube, con características inigualables en cuanto a infraestructura,
+                                    disponibilidad, alertas y con una interface de usuario única en su tipo.
+                                </p>
+                                <p>
+                                    En palabras textuales de nuestro jefe de desarrollo de IT Energy Lazaro Arcos, quien comenta riéndose “Haremos una plataforma
+                                    tan robusta, segura y potente que nuestra competencia simplemente va a querer tenerla,”
+                                </p>
+                                <p>
+                                    Hemos podido salir bien librados y sobre todo bien reconocidos ante la actual oferta de compañías sin ética que ofrecen precios
+                                    y tecnologías que ponen en riesgo la integridad de las instalaciones de nuestros clientes
+                                    y de su personal. Estamos viviendo una era de competencia desleal, donde empresas no
+                                    especializadas afectan el mercado omitiendo las normas mas simples, usando equipos fuera
+                                    de especificación y contratando personal no especializado que estamos seguros repercute
+                                    en una mala opinión generalizada de este servicio.
+                                </p>
+                                <p>
+                                    Finalmente, a lo anterior me es grato recalcar que nuestros clientes han logrado entender esta situación y diferenciarnos
+                                    del resto, toda vez que hemos podido demostrar que nuestros intereses están alineados
+                                    con los suyos y siendo fiel a nuestra policita empresarial, “nos interesa construir relaciones
+                                    de largo plazo, basadas en valores, seguridad, integridad y por supuesto en la Confianza.
+                                </p>
+                                <p>
+                                    Muchas gracias.
+                                </p>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <span>
+                        <img width="15%" src="assets/images/logo.png">
+                    </span>
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Ok</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- fin modal-->
+</section>

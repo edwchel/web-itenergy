@@ -1,0 +1,56 @@
+<section class="home-process">
+    <div class="container">
+        <div class="row process">
+            <div class="col-sm-6">
+                <h2 class="process-title title-2"> ¿Quienes somos? </h2>
+                <h4 class="process-subtitle subtitle-2"> Interactively empower diverse imperatives after prospective convergence. </h4>
+                <p> Conformado por un grupo de profesionales expertos en tecnologías de control, comunicaciones e información IT ENERGY es una empresa socialmente responsable y 
+                    altamente comprometida con las políticas de seguridad y medio ambiente que ofrece soluciones integrales de automatización, telemetría y control de procesos productivos 
+                    dentro de la industria petrolera y ramos en general brindando ingeniería de primer nivel en la solución de problemas buscando en ello la optimización de recursos y generando 
+                    valor a nuestros Clientes.</p>
+                <a href="#" class="btn btn-primary" role="button">Leer Historia</a>
+            </div>
+
+            <div class="col-sm-6">
+                <h4 class="services-title-one subtitle">Nuestras Habilidades</h4>
+                <div id="skills" class="process-bar">
+                    <div class="skillbar-title"> Automatización </div>
+                    <div class="skillbar" data-percent="100%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">100%</div>
+                    </div>
+
+                    <div class="skillbar-title"> Control </div>
+                    <div class="skillbar" data-percent="98%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">98%</div>
+                    </div>
+
+                    <div class="skillbar-title"> Instrumentación </div>
+                    <div class="skillbar" data-percent="100%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">100%</div>
+                    </div>
+
+                    <div class="skillbar-title"> Telemetría </div>
+                    <div class="skillbar" data-percent="97%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">97%</div>
+                    </div>
+
+                    <div class="skillbar-title"> Análisis de Proceso </div>
+                    <div class="skillbar" data-percent="95%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">95%</div>
+                    </div>
+
+                    <div class="skillbar-title"> Monitoreo </div>
+                    <div class="skillbar" data-percent="100%">
+                        <div class="skillbar-bar"> </div>
+                        <div class="skill-bar-percent">100%</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
