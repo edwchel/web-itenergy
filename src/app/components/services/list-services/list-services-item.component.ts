@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListServicesItemComponent implements OnInit {
 
-  proyecto: any = undefined;
+  proyecto: any = undefined; // proyecto: any = {};
   constructor(public _ps: PageService,
               private route: ActivatedRoute) {
   

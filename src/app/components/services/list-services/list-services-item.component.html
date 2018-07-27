@@ -1,7 +1,7 @@
 
 <!-- Page Title -->
 <div class="page-title text-center">
-  <h2 class="title"> Proyectos </h2>
+  <h2 class="title"> {{proyecto.titulo}} </h2>
   <p class="description light"> Holisticly brand sustainable solutions rather than clicks-and-mortar applications.
     <br> Phosfluorescently whiteboard fully tested initiatives. </p>
 </div>
@@ -26,13 +26,13 @@
         <section class="services-checmicals">
           <div class="chemicals">
               <a href="#" class="hover-effect">
-                  <img src="images/services-large.jpg" alt="SHELL CHEMICALS" />
+                  <img [src]="proyecto.img" alt="SHELL CHEMICALS" />
               </a>
               <div class="spacer-50"></div>
               <h2 class="chemicals-title color-title"> {{proyecto.titulo}}</h2>
               <h4 class="chemicals-subtitle subtitle"> Uniquely transform premier infrastructures before functional metrics. Completely mesh sustainable leadership for economically sound sources. </h4>
               <p> {{proyecto.texto}}</p>
-              <p> Distinctively fashion standardized communities vis-a-vis seamless applications. Authoritatively recaptiualize efficient supply chains without vertical initiatives. Progressively visualize strategic relationships with error-free processes. Credibly strategize fully tested outsourcing with functional e-markets. Dynamically evisculate user friendly architectures before cross-media experiences.</p>
+              <p> {{proyecto.texto}} </p>
           </div>
       </section>
 
@@ -45,7 +45,7 @@
               </div>
 
               <div class="col-sm-6">
-                  <h4 class="subtitle">THE BENEFITS</h4>
+                  <h4 class="subtitle">{{proyecto.titulo}}</h4>
                   <p>Interactively fashion functional action items after 24/365 results. Dynamically redefine world-class metrics without leading-edge markets. Progressively orchestrate enabled outside the box thinking via scalable.</p>
               </div>
           </div>
@@ -60,7 +60,7 @@
 
               <div class="col-sm-6">
                   <h4 class="subtitle">{{proyecto.titulo}}</h4>
-                  <p>Interactively fashion functional action items after 24/365 results. Dynamically redefine world-class metrics without leading-edge markets. Progressively orchestrate enabled outside the box thinking via scalable.</p>
+                  <p>{{proyecto.texto}}</p>
 
               </div>
           </div>

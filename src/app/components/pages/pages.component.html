@@ -23,7 +23,7 @@
     <section class="services-company">
       <div class="row service-list">
         <!--[routerLink]="['/servicio-item', item.id]"-->
-        <div class="col-md-4 col-sm-4" *ngFor="let item of _ps.proyectos.equipo; let i = index"  >
+        <div class="col-md-4 col-sm-4" *ngFor="let item of proyectos; let i = index"  >
           <a  class="hover-effect">
             <img src="assets/images/proyectos/{{item.img}}"/>
           </a>

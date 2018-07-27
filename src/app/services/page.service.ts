@@ -1,83 +1,73 @@
+import { Proyecto } from '../components/services/list-services/list-services';
 import { Http, HttpModule } from '@angular/http';
 import { Injectable } from '@angular/core';
+
 
 @Injectable()
 export class PageService {
 
-  proyectos: Proyecto [] = [];
-  lista_item: lista_proyecto[] = [];
-
+  pruebas: Prueba [] = [];
+  
   constructor(public http:Http) { 
-    // this.cargar_proyecto_example();
+   
     this.cargar_proyecto();
-    // this.cargar_id_servicesitem();
+    this.getProyectos();
+    console.log(this.getProyectos())
   }
 
   public cargar_proyecto(){
    return this.http.get('assets/data/projectos_idx.json')
       .subscribe(resp =>{
         
-        this.proyectos = resp.json();
-        console.log(this.proyectos)
+        this.pruebas = resp.json();
+        console.log(this.pruebas)
   })
   } 
+  getPrueba(index: string){
+    return this.pruebas[index];
+  }
+  
+  public getProyectos(): Proyecto[]  {
+    return this.proyectos;
+  }
 
-  /*
-  public cargar_id_servicesitem(){
-   return this.http.get('assets/data/list-services.json')
-   .subscribe( data => {
-     
-     this.lista_item = data.json();
-      console.log(this.lista_item);
-    
-  })
-  }*/
-
-  getProyecto(index: string){
+  public getProyecto(index: string) {
     return this.proyectos[index];
   }
   
-  /*
-  public cargar_proyecto_example(){
-  this.http.get('https://pageweb-angularhtml.firebaseio.com/equipo.json')
-    .subscribe(respuesta =>{
-      // this.cargando = true;
-      this.list_proyecto = respuesta.json();
-
-      console.log(this.list_proyecto)
-    })
-
-  } */
-
+  public proyectos: Proyecto[] = [
+    {
+      titulo: "Telemetría móvil en separadores de Well Testing",
+      texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque eaque repellendus commodi nam vero a explicabo non facilis! Alias harum officiis maiores quaerat tempore esse provident neque veritatis culpa explicabo.",
+      img : "assets/images/proyectos/chincometro_01.jpg",
+      id:"separadores"
+      }, {
+      titulo: "Telesupervisión de Oleoductos en el valle Texas",
+      texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque eaque repellendus commodi nam vero a explicabo non facilis! Alias harum officiis maiores quaerat tempore esse provident neque veritatis culpa explicabo.",
+      img: "assets/images/proyectos/medicion-de-ductos-ABB.jpg",
+      id: "oleoductos"
+      }, {
+      titulo: "Telesupervisión y control de pozos petróleros",
+      texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque eaque repellendus commodi nam vero a explicabo non facilis! Alias harum officiis maiores quaerat tempore esse provident neque veritatis culpa explicabo.",
+      img: "assets/images/proyectos/tc_pp.jpg",
+      id: "telesupervision"
+      },{
+      titulo: "Monitoreo de compresores en boca de pozo",
+      texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque eaque repellendus commodi nam vero a explicabo non facilis! Alias harum officiis maiores quaerat tempore esse provident neque veritatis culpa explicabo.",
+      img: "assets/images/proyectos/Mc_bp.jpg",
+      id: "compresores"
+      },{
+      titulo: "Monitoreo de variables en Puntos Fiscales de medición y transferencia de custodia",
+      texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque eaque repellendus commodi nam vero a explicabo non facilis! Alias harum officiis maiores quaerat tempore esse provident neque veritatis culpa explicabo.",
+      img: "assets/images/proyectos/Mv_pf.JPG",
+      id: "monitoreo"
   
+      }
+  ]
+
 }
 
-export class lista_proyecto{
-  producto: string;
-  categoria: string;
-  subtitulo1: string;
-  desc1: string;
-  subtitulo2: string;
-  desc2: string;
-  resumen: string;
-  constructor(producto: string,
-    categoria: string,
-    subtitulo1: string,
-    desc1: string,
-    subtitulo2: string,
-    desc2: string,
-    resumen: string){
-      this.producto = producto;
-      this.categoria = categoria;
-      this.subtitulo1 = subtitulo1;
-      this.desc1 = desc1;
-      this.subtitulo2 = subtitulo2;
-      this.desc2 = desc2;
-      this.resumen = resumen;
-    }
-}
-
-export interface Proyecto{
+export interface Prueba{
   titulo: string;
   texto: string;
   img: string;
