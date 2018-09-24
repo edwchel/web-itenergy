@@ -8,11 +8,11 @@ import { AgmCoreModule } from '@agm/core';
 })
 export class ContactComponent implements OnInit {
 
-  title: string = 'My first AGM project';
-  lat: number = 26.087003;
-  lng: number = -98.374104;
-  zoom: number = 14;
-  
+  title = 'My first AGM project';
+  lat = 26.073486;
+  lng =  -98.359856;
+  zoom = 16;
+
   constructor() { }
 
   ngOnInit() {

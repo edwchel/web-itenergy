@@ -1,0 +1,10 @@
+export { SliderComponent } from './slider/slider.component';
+export { HomecompanyComponent } from './homecompany/homecompany.component';
+export { HomeceoComponent } from './homeceo/homeceo.component';
+export { HomeservicesComponent } from './homeservices/homeservices.component';
+export { ProcessComponent } from './process/process.component';
+export { ServicesotherComponent } from './servicesother/servicesother.component';
+export { TestimonialsComponent } from './testimonials/testimonials.component';
+export { PublicationsComponent } from './publications/publications.component';
+export { NewsComponent } from './news/news.component';
+export { PartnersComponent } from './partners/partners.component';

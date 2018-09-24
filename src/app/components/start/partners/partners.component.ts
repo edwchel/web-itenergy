@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-declare var jquery:any;
-declare var $ :any;
+declare var jquery: any;
+declare var $: any;
 
 @Component({
   selector: 'app-partners',
@@ -10,9 +10,10 @@ declare var $ :any;
 export class PartnersComponent implements OnInit {
 
   constructor() { }
+  // tslint:disable-next-line:use-life-cycle-interface
   ngAfterViewInit() {
     if ($('.logo-slides').length) {
-      $(".logo-slides").owlCarousel({
+      $('.logo-slides').owlCarousel({
           autoplay: true,
           autoplayTimeout: 3000,
           loop: true,

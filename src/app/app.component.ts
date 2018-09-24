@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'IT Energy';
 // public _ps: PageService
-  constructor(){
+  constructor() {
 
   }
 }
